@@ -1,19 +1,18 @@
-# Stats
-
-[![Stuff:](https://github-readme-stats.vercel.app/api?username=ShootFirstAskQuestionsLater)](https://github.com/anuraghazra/github-readme-stats)
-
 # Contact me
 
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
   swiney2@protonmail.com
 
-[![Chat on Matrix](https://matrix.to/img/matrix-badge.svg)](https://matrix.to/#/#matrix.to:matrix.org)
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+  u/swiney2
+
+![https://reddit.com/u/swiney2](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 
 # About me
 
-I use ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+I'm a 12 y/o programmer, software designer, gamer, and mediocre UI designer
 
-I'm a 12 y/o C# programmer and mediocre UI designer with no life 
+# Platforms/OS
 
-I like cs:go 
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 	![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white)
 
