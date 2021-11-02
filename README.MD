@@ -5,7 +5,7 @@
 [![Actions Status](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/swiney2)
 
 # About me
-<img src="https://c.tenor.com/6AD7XiQE57YAAAAM/family-guy-dance.gif" width="500" height="1">
+<img src="https://c.tenor.com/6AD7XiQE57YAAAAM/family-guy-dance.gif" width="500" height="10">
 I'm a 12 y/o programmer, software designer, gamer, and mediocre UI designer
 
 I'm in the 6th grade
