@@ -1,6 +1,6 @@
 # Contact me
 
-##READ THIS BEFORE DM'ING ME
+#READ THIS BEFORE DM'ING ME
 
 <img src = "https://cdn.discordapp.com/attachments/801954986095280188/904901859041480794/unknown.png" height="600" width="600">
 
