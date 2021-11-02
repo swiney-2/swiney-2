@@ -12,4 +12,4 @@ I'm a 12 y/o programmer, software designer, gamer, and mediocre UI designer
 
 # Platforms/OS
 
-![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://apple.com/) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 	![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white)
+[![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)](https://apple.com/) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/) 	[![Playstation 3](https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white)](https://www.playstation.com/en-us/)
