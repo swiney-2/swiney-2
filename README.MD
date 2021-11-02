@@ -17,4 +17,4 @@ I'm a 12 y/o programmer, software designer, gamer, and mediocre UI designer
 
 
 #test
-[![Actions Status](https://wdp9fww0r9.execute-api.us-west-2.amazonaws.com/production/badge/cedrickring/golang-action)](https://wdp9fww0r9.execute-api.us-west-2.amazonaws.com/production/results/cedrickring/golang-action)
+[![Actions Status](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/swiney2)
