@@ -4,7 +4,7 @@
 
 [![Actions Status](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/swiney2)
 
-(If you dm me on reddit I probably wont answer, so <img src="https://c.tenor.com/2Av6X-gcBl0AAAAC/fuck-off-peter-griffin.gif" height="20" width="20">)
+(If you dm me on reddit I probably wont answer, so <img src="https://c.tenor.com/2Av6X-gcBl0AAAAC/fuck-off-peter-griffin.gif" height="200" width="200">)
 
 # About me
 <img src="https://c.tenor.com/6AD7XiQE57YAAAAM/family-guy-dance.gif" width="500" height="100">
