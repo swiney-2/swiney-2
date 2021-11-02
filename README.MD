@@ -1,8 +1,11 @@
 # Contact me
 
-#READ THIS BEFORE DM'ING ME
+READ THIS BEFORE DM'ING ME
 
 <img src = "https://cdn.discordapp.com/attachments/801954986095280188/904901859041480794/unknown.png" height="600" width="600">
+https://nohello.net/
+If you dm me just saying "yo", "hey", "hi", "I have a question", and i dont respond, I saw your dm, you just annoyed me.
+Otherwise I check my Discord frequently everyday and will respond 
 
 [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/722352004470407168)
 
