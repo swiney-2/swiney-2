@@ -28,3 +28,5 @@ using(System.Net.WebCient webClient = WebClient()){
   return webClient.DownloadString("https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554__480.jpg");
   }
 }
+public static void ImBoredSoImDoingThis
+ => System.Windows.Forms.MessageBox.Show("AAAAAAAA", "sfdbhsdfhbsdfbh", MessageBoxButtons.OK, MessageBoxImage.Error);
