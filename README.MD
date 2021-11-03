@@ -3,6 +3,9 @@
 I'm a 12 y/o programmer, software designer/developer, gamer, and mediocre UI designer
 
 
+
+
+
 ![](https://komarev.com/ghpvc/?username=ShootFirstAskQuestionsLater)
 
 # Contact me
