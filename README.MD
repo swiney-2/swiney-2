@@ -62,8 +62,6 @@ I'm a 12 y/o programmer, software designer/developer, gamer, and mediocre UI des
 # Contact me
 
 READ THIS BEFORE DM'ING ME
-
-<img src = "https://cdn.discordapp.com/attachments/801954986095280188/904901859041480794/unknown.png" height="600" width="600">
 https://nohello.net/
 
 If you dm me just saying "yo", "hey", "hi", "I have a question", and i dont respond, I saw your dm, you just annoyed me.
