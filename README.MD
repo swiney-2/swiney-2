@@ -1,5 +1,7 @@
 # Intro
-<img src="https://readme-typing-svg.herokuapp.com?lines=Hey+,+I'm+swiney2">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+I'm+swiney2">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Bad+at+code">
+<img src="https://readme-typing-svg.herokuapp.com?lines=uhhh">
 <img src="https://c.tenor.com/6AD7XiQE57YAAAAM/family-guy-dance.gif" width="500" height="100">
 I'm a 12 y/o programmer, software designer/developer, gamer, and mediocre UI designer
 
