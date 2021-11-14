@@ -1,4 +1,7 @@
 # Intro
+
+https://swiney-2.github.io/
+
 <img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+I'm+swiney2">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Bad+at+code">
 <img src="https://readme-typing-svg.herokuapp.com?lines=uhhh">
