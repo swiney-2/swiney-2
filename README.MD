@@ -2,8 +2,7 @@
 
 https://swiney-2.github.io/
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+I'm+swiney2"> <img src="https://readme-typing-svg.herokuapp.com?lines=Bad+at+code">
-<img src="https://c.tenor.com/6AD7XiQE57YAAAAM/family-guy-dance.gif" width="500" height="100">
+
 I'm a 12 y/o programmer, software designer/developer, gamer, and mediocre UI designer
 
 
@@ -61,7 +60,7 @@ I'm a 12 y/o programmer, software designer/developer, gamer, and mediocre UI des
 
 
 
-![ffffff](https://komarev.com/ghpvc/?username=ShootFirstAskQuestionsLater)
+![ffffff](https://komarev.com/ghpvc/?username=swiney-2)
 
 # Contact me
 
