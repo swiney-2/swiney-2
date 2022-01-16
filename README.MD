@@ -2,8 +2,7 @@
 
 https://swiney-2.github.io/
 
-
-I'm a 12 y/o programmer, software designer/developer, gamer, and mediocre UI designer
+Mediocre dev
 
 
 
@@ -64,12 +63,7 @@ I'm a 12 y/o programmer, software designer/developer, gamer, and mediocre UI des
 
 # Contact me
 
-READ THIS BEFORE DM'ING ME
-https://nohello.net/
-
-If you dm me just saying "yo", "hey", "hi", "I have a question", and i dont respond, I saw your dm, you just annoyed me.
-
-Otherwise I check my Discord frequently everyday and will respond 
+I check my Discord frequently everyday and will likely respond 
 
 [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/722352004470407168)
 
