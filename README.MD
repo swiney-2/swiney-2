@@ -1,6 +1,5 @@
 # Intro
 
-https://swiney-2.github.io/
 
 Mediocre dev
 
